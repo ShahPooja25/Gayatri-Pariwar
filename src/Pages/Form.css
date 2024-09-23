@@ -1,0 +1,40 @@
+.form-container input {
+    width: 83%; /* Make the input take full width of the container */
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 16px;
+    border: 2px solid #692805;
+    font-size: 16px;
+  }
+  .container{
+    background-color: #EFDA92;
+    margin: 0;
+  }
+  .form-container {
+    padding: 20px;
+    width: 50%; /* Set form width */
+    margin: auto;
+
+  }
+  
+  /* Add style for the submit button */
+  .submit-btn {
+    background-color: #692805; /* Dark brown background color */
+    color: white; /* White text */
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 22%; /* Full width of the container */
+
+  }
+  
+  .submit-btn:hover {
+    opacity: 0.9; /* Slight hover effect */
+  }
+  .heading{
+    margin: 0;
+    margin-top: 20px;
+    color:#692805;
+  }
